@@ -4,8 +4,15 @@
 	font-family: Century Gothic;
 }
 h1 {
-	color: antiquewhite;
+	color: chocolate;
 }
+p {
+	color: brown;
+}
+<style>        
+                            h1{ color:white (250, 250, 250);position: absolute;top: 10px; left: 610px;}
+
+
 body {
 	background-image: url('https://fly-wheel.com/wp-content/uploads/2019/04/audi-logo-backgrounds-For-Desktop-Wallpaper.jpg');
 	background-repeat: no-repeat;
