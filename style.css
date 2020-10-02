@@ -11,6 +11,7 @@ p {
 }
         
                             h1{ color:white (250, 250, 250);position: absolute;top: 10px; left: 610px;}
+							#h1{ color:white (250, 250, 250);position: absolute;top: 600px; left: 610px;}
 
 							.home:hover {background-color:#ffaf04;box-shadow: 0 9px rgb(255, 0, 0) }
 							.home:active {background-color: #FFAF04;box-shadow: 0 5px #666;transform: translateY(4px);}
@@ -25,8 +26,13 @@ p {
 							.usedcars:hover {background-color:#ffaf04;box-shadow: 0 9px rgb(255, 0, 0) }
 							.usedcars:active {background-color: #FFAF04;box-shadow: 0 5px #666;transform: translateY(4px);}
 
-#rs6{position: absolute;top: 200px;left: 800px;color: white;}
-#a{position: absolute;left: 300px; }
+#rs6{position: absolute;top: 100px;left: 750px;color: white;}
+#e{position: absolute;top: 550px;left: 1050px;color: white;}
+#r8{position: absolute;top: 1250px;left: 750px;color: white;}
+#q7{position: absolute;top: 1520px;left: 1150px;color: white;}
+#car{position: absolute;top: 70px;left: 750px;color: chocolate;}
+#h1{position: absolute;top: 550px;left: 50px;color: chocolate;}
+#a{position: absolute;left: 400px; }
 #b{color: tomato;}
 
 
